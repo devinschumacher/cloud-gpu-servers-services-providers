@@ -12,14 +12,15 @@ This article will provide an overview of cloud GPUs, their applications in artif
 
 ## Cloud GPU Providers - RANKED!
 
-1. [Runpod](https://devinschumacher.com/go/runpod/)
-2. [SERP Cloud GPU]()
-3. etc...
+
+1. [Latitude.sh](https://serp.ly/latitude)
+2. [OVHCloud](https://serp.ly/ovh-cluod)
+3. [Paperspace](https://serp.ly/paperspace)
+4. [Vultr]([url](https://serp.ly/vultr))
+5. [Vast AI]([url](https://serp.ly/vast-ai))
 
 
-### RunPod
-
-
+---
 
 
 |     Cloud GPU Provider    |              Website              | Pricing | Free Trial / Free Credits | 
