@@ -14,7 +14,7 @@ This article will provide an overview of cloud GPUs, their applications in artif
 
 
 1. [Latitude.sh](https://serp.ly/latitude)
-2. [OVHCloud](https://serp.ly/ovh-cluod)
+2. [OVHCloud](https://serp.ly/ovh-cloud)
 3. [Paperspace](https://serp.ly/paperspace)
 4. [Vultr]([url](https://serp.ly/vultr))
 5. [Vast AI]([url](https://serp.ly/vast-ai))
@@ -147,6 +147,8 @@ If you are a student or researcher you can get extra credts , contact the provid
 * Most of the gpu providers run on top of AWS , GCP etc so may have more or less same pricing as the latter
 * Information given above is best to my searching ability , you may recheck with the provider for pricing and other info
 
+Recommended reading:
 
+- https://gist.github.com/devinschumacher/87dd5b87234f2d0e5dba56503bfba533
  
  
