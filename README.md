@@ -12,6 +12,11 @@ This article will provide an overview of [cloud GPUs](https://gist.github.com/de
 
 ## Cloud GPU Providers - RANKED!
 
+## 1. [Latitude.sh](https://serp.ly/latitude)
+
+![latitude](https://github.com/user-attachments/assets/21f2fec5-0e0f-4799-a40e-eccd051bceda)
+
+
 
 1. [Latitude.sh](https://serp.ly/latitude)
 2. [OVHCloud](https://serp.ly/ovh-cloud)
