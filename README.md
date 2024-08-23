@@ -6,9 +6,9 @@ There was a time when businesses had to wait for long periods of time while deep
 
 This problem has been resolved in the most recent GPU designs. Because of their high parallel processing efficiency, they are well-suited for handling large calculations and speeding up the training of your AI models.
 
-When it comes to deep learning, GPUs can speed up the training of neural networks by a factor of 250 compared to CPUs, and the latest generation of cloud GPUs is reshaping data science and other emerging technologies by delivering even greater performance at a lower cost and with the added benefits of easy scalability and rapid deployment.
+When it comes to deep learning, [Cloud GPUs](https://devinschumacher.github.io/cloud-gpu-servers-services-providers/) can speed up the training of neural networks by a factor of 250 compared to CPUs, and the latest generation of cloud GPUs is reshaping data science and other emerging technologies by delivering even greater performance at a lower cost and with the added benefits of easy scalability and rapid deployment.
 
-This article will provide an overview of cloud GPUs, their applications in artificial intelligence, machine learning, and deep learning, and the top cloud GPU deployment platforms available today.
+This article will provide an overview of [cloud GPUs](https://gist.github.com/devinschumacher/87dd5b87234f2d0e5dba56503bfba533), their applications in artificial intelligence, machine learning, and deep learning, and the top cloud GPU deployment platforms available today.
 
 ## Cloud GPU Providers - RANKED!
 
