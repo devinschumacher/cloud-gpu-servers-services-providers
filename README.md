@@ -23,7 +23,7 @@ This article will provide an overview of [cloud GPUs](https://gist.github.com/de
 3. [Paperspace](https://serp.ly/paperspace)
 4. [Vultr]([url](https://serp.ly/vultr))
 5. [Vast AI]([url](https://serp.ly/vast-ai))
-
+6. [Koyeb]([url](https://www.koyeb.com/))
 
 ---
 
@@ -53,6 +53,7 @@ This article will provide an overview of [cloud GPUs](https://gist.github.com/de
 | Hostkey | https://hostkey.com/dedicated-servers/gpu/ | GPU from 90 euros/month | Free trials available |
 | IBM Cloud | https://www.ibm.com/cloud/gpu | [Pay as you go](https://www.ibm.com/cloud/gpu) | $200 [credits](https://console.bluemix.net/registration/free) |
 | Jarvis Labs | https://jarvislabs.ai/ | RTX 5000 at $0.49/hr | Fast.ai Special [Discount](https://course.fast.ai/start_jarviscloud#pricing)
+| Koyeb | https://www.koyeb.com/ | [Pay as you go](https://www.koyeb.com) | $200 [credits](https://tally.so/r/w5zkyE?coupon=cloud-gpus) |
 | Lambda Labs | https://lambdalabs.com/service/gpu-cloud | 4x Pascals start at $1.50/hr| [Reserved Instance Discounts](https://lambdalabs.com/service/gpu-cloud/pricing) | 
 | Leadergpu | https://www.leadergpu.com | [pricing :label: ](https://www.leadergpu.com) | - |
 | Nimblebox | https://nimblebox.ai | [pricing :label: ](https://nimblebox.ai/pricing) | Free $10 worth of cloud credits |
@@ -93,6 +94,7 @@ Have an idea and want to serve to world 🌎 , create a Webapp and deploy it as 
 | Digital Ocean | https://www.digitalocean.com | [Pay as you go](https://www.digitalocean.com/pricing/) | Free $100 credits with [github student pack](https://education.github.com/pack)|
 | Glitch | https://glitch.com | - | - |
 | Heroku | https://www.heroku.com | [pricing :label: ](https://www.heroku.com/pricing) | [Free plan](https://www.heroku.com/free) (model<500MB)|
+| Koyeb | https://www.koyeb.com | [pricing :label: ](https://www.koyeb.com/pricing) | [Free plan](https://www.koyeb.com/pricing) |
 | PythonAnywhere | https://www.pythonanywhere.com/ | [pricing :label: ](https://www.pythonanywhere.com/pricing/) | Free Beginner Account Available |
 | Render | https://render.com | [pricing :label: ](https://render.com/pricing) | - |
 | Streamlit For Teams | https://www.streamlit.io/ | [pricing :label: ](https://www.streamlit.io/for-teams) | Currently in Beta ( Streamlit Cloud Tool ) |
