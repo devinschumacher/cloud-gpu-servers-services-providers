@@ -1,4 +1,4 @@
-# Cloud GPUs: Servers, Providers & Everything You Would Ever Want Ya Dingus!
+# The Top Cloud GPUs Providers for AI, ML & Deep Learning
 
 Your company's GPU computing strategy is essential whether you engage in 3D visualization, machine learning, AI, or any other form of intensive computing.
 
