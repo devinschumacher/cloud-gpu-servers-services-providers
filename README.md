@@ -12,18 +12,17 @@ This article will provide an overview of [cloud GPUs](https://gist.github.com/de
 
 ## 1. [Liquid Web Cloud GPU](https://serp.ly/liquid-web-gpu-hosting)
 
-![liquid web gpu hosting](https://gist.github.com/user-attachments/assets/738db491-9a6b-4a91-8b46-f68009397d20)
-
-<a href="https://serp.ly/liquid-web-gpu-hosting" target="_blank" rel="noopener noreferrer">
-  <img src="https://gist.github.com/user-attachments/assets/cec9f751-f800-413d-861f-83c771ab647b" alt="Liquid Web GPU Hosting" />
-</a>
+![liquidwebcloudgpu](https://github.com/user-attachments/assets/2d78c4d5-4e04-4b1d-927b-b568a271591f)
 
 
 Liquid Web, a prominent provider of managed hosting and cloud solutions, has recently introduced its GPU hosting services to meet the escalating demands of high-performance computing (HPC) applications. This offering is tailored for tasks such as artificial intelligence (AI), machine learning (ML), and rendering workloads, providing businesses with the computational power necessary to handle data-intensive operations efficiently.
 
 ## Overview of Liquid Web's GPU Hosting Services
 
-Liquid Web's GPU hosting solutions are designed to deliver exceptional performance for resource-intensive applications. By integrating NVIDIA's advanced GPUs, including models like the L4 Ada 24GB, L40S Ada 48GB, and H100 NVL 94GB, these services cater to a wide range of computational needs. Each server configuration is optimized to ensure seamless operation for AI/ML tasks, large-scale data processing, and complex rendering projects.
+![liquidweb2](https://github.com/user-attachments/assets/ca9bfb8b-69bf-4fda-ae86-8996b533317d)
+
+
+[Liquid Web's Cloud GPU Hosting Services](https://serp.ly/liquid-web-gpu-hosting) are designed to deliver exceptional performance for resource-intensive applications. By integrating NVIDIA's advanced GPUs, including models like the L4 Ada 24GB, L40S Ada 48GB, and H100 NVL 94GB, these services cater to a wide range of computational needs. Each server configuration is optimized to ensure seamless operation for AI/ML tasks, large-scale data processing, and complex rendering projects.
 
 ## Key Features
 
