@@ -455,7 +455,9 @@ In summary, Atlantic.net's GPU cloud platform delivers an impressive combination
 |     Cloud GPU Provider    |              Website              | Pricing | Free Trial / Free Credits | 
 | ------------------------- | --------------------------------- | ------- | ------------------------- |
 | [Liquid Web Cloud GPU](https://serp.ly/liquid-web-gpu-hosting) | [Link](https://serp.ly/liquid-web-gpu-hosting) |  Premium   |       No      |
+| [Atlantic.net](https://serp.ly/atlantic.net) | [Link](https://serp.ly/atlantic.net) |  Premium   |       No      |
 | Google Colaboratory :heart: | https://colab.research.google.com |  FREE   |       FREE FOREVER*      |
+| [Hyperstack.Cloud](https://serp.ly/hyperstack.cloud) | [Link](https://serp.ly/hyperstack.cloud) |  Premium   |       No      |
 | Kaggle Kernels | https://www.kaggle.com | FREE | FREE FOREVER* |
 | Activeloop | https://www.activeloop.ai | - | - |
 | Alibaba cloud | https://alibabacloud.com | [Pay as you go](https://www.alibabacloud.com/product/gpu/pricing) | $300 [credits](https://www.alibabacloud.com/campaign/free-trial) |
@@ -483,13 +485,13 @@ In summary, Atlantic.net's GPU cloud platform delivers an impressive combination
 | Nimblebox | https://nimblebox.ai | [pricing :label: ](https://nimblebox.ai/pricing) | Free $10 worth of cloud credits |
 | Nvidia cloud | [Nvidia Cloud GPU](https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/) | - | - |
 | One Stop System | https://www.onestopsystems.com | - | - |
-| Paperspace | https://www.paperspace.com | [pricing :label: ](https://www.paperspace.com/pricing) | [Referal Program Available](https://www.paperspace.com/referral-program) |
+| Paperspace | [https://www.paperspace.com](https://serp.ly/paperspace) | [pricing :label: ](https://serp.ly/paperspace) | [Referal Program Available](https://serp.ly/paperspace) |
 | puzl.ee | https://puzl.ee/gpu-cloud | Rent a fraction of A100 for 0.40EUR/h | Free cloud Kubernetes API, up to 10 GPUs per pod |
 | Q Blocks | https://qblocks.cloud/ | $20 package ~ 100 GPU hours | Free 20 Compute Hours for Early access |
 | Rapid Switch | https://www.rapidswitch.com | [pricing :label: ](https://www.rapidswitch.com/dedicated-servers/low-price-guarantee/) | - |
 | Spell | https://spell.run/developers | [pricing :label: ](https://spell.run/pricing) | $10 GPU credit on signup |
 | TensorDock | https://tensordock.com | [pricing :label: ](https://tensordock.com/pricing) [pricing :label:](https://console.tensordock.com/deploy) | Discounts to FOOS, students and researchers |
-| Vast.ai | https://vast.ai | [pricing :label: ](https://vast.ai/console/create/) | - |
+| Vast.ai | [https://vast.ai](https://serp.ly/vast-ai) | [pricing :label: ]([https://vast.ai/console/create](https://serp.ly/vast-ai)/) | - |
 | vscaler | https://www.vscaler.com | [On Request](https://www.vscaler.com/private-cloud-appliance/) | - |
 
 
