@@ -69,7 +69,7 @@ Due to high demand, delivery times for GPU servers range from 24 hours to two we
 ## Use Cases
 
 <a href="https://serp.ly/liquid-web-gpu-hosting" target="_blank" rel="noopener noreferrer">
-  <img src="https://gist.github.com/user-attachments/assets/9f84bc7c-bdd4-4c0d-a5ad-b7d15c5ae489" alt="Liquid Web GPU Hosting Use Cases" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/45643901/387803272-9f84bc7c-bdd4-4c0d-a5ad-b7d15c5ae489.jpg" alt="Liquid Web GPU Hosting Use Cases" />
 </a>
 
 - **AI and Machine Learning**: Accelerating training and inference of deep learning models, deploying real-time AI services, and hosting pre-trained large language models.
@@ -94,7 +94,7 @@ While the cost may be a consideration for some, the performance and scalability 
 
 Harness unprecedented computational power with Atlantic.net's enterprise-focused GPU cloud platform, purpose-built for next-generation AI development, scientific research, and analytics workloads.
 
-![atlantic.net gpu cloud solutions](https://private-user-images.githubusercontent.com/45643901/441519398-5594b911-3d1e-435c-bbfd-32626e4be823.jpg)
+![atlantic.net gpu cloud solutions](https://private-user-images.githubusercontent.com/45643901/441519398-5594b911-3d1e-435c-bbfd-32626e4be823.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY2NzU0NDcsIm5iZiI6MTc0NjY3NTE0NywicGF0aCI6Ii80NTY0MzkwMS80NDE1MTkzOTgtNTU5NGI5MTEtM2QxZS00MzVjLWJiZmQtMzI2MjZlNGJlODIzLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTA4VDAzMzIyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk1YWIzNTI4OGFmMDYwYTMyNGZmOTZlMjFlYzc2ZGUxNWI3N2NkYjgwZWJlZjc5YzllMjZhM2Y1N2VjYzNmZGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.F8_IZWPtJVOwZKOmUKCLHgLp07ijrl0yv53DQLNzGXE)
 
 In the rapidly evolving landscape of accelerated computing, Atlantic.net has established itself as a key player by introducing enterprise-grade GPU cloud solutions targeting the most computationally demanding applications in artificial intelligence, deep learning, and data science. This technical evaluation examines Atlantic.net's GPU product portfolio, architectural design, performance metrics, implementation flexibility, and industry-specific applications to provide organizations with a comprehensive understanding of these accelerated computing resources.
 
