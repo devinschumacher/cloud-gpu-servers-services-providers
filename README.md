@@ -384,6 +384,7 @@ In summary, Atlantic.net's GPU cloud platform delivers an impressive combination
 | AWS Sagemaker | https://aws.amazon.com/sagemaker/ | [pricing :label: ](https://aws.amazon.com/sagemaker/pricing/) | [Free plans](https://aws.amazon.com/free/) |
 | Azure | https://azure.microsoft.com/en-in/services/machine-learning-studio/ | [pricing :label: ](https://azure.microsoft.com/en-in/pricing/) | $200 [credits](https://azure.microsoft.com/en-us/free/) |
 | Cirrascale | http://www.cirrascale.com | [pricing :label:](http://www.cirrascale.com/pricing_waas.php) | - |
+| Clore.ai | https://clore.ai | RTX 3090 from $0.12/hr, RTX 4090 from $0.70/hr, RTX 5090 from $1.71/hr | No trial, pay with BTC/USDT/USDC/CLORE |
 | Cloudalize | https://www.cloudalize.com | [pricing :label: ](https://www.cloudalize.com/pricing/) | - |
 | Crestle | https://crestle.ai | [pricing :label: ](https://crestle.ai/#pricing) | - |
 | DataCrunch | https://datacrunch.io | V100 at $0.69/h | Fast.ai Special [Discount](https://course.fast.ai/start_datacrunch#pricing)  |
