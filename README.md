@@ -403,6 +403,7 @@ In summary, Atlantic.net's GPU cloud platform delivers an impressive combination
 | Lambda Labs | https://lambdalabs.com/service/gpu-cloud | 4x Pascals start at $1.50/hr| [Reserved Instance Discounts](https://lambdalabs.com/service/gpu-cloud/pricing) | 
 | Leadergpu | https://www.leadergpu.com | [pricing :label: ](https://www.leadergpu.com) | - |
 | Nimblebox | https://nimblebox.ai | [pricing :label: ](https://nimblebox.ai/pricing) | Free $10 worth of cloud credits |
+| Nuza | https://nuza.io | [Per-second billing in USDC](https://nuza.io/api/v1/pricing) | 0% marketplace fee during beta |
 | Nvidia cloud | [Nvidia Cloud GPU](https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/) | - | - |
 | One Stop System | https://www.onestopsystems.com | - | - |
 | Paperspace | [https://www.paperspace.com](https://serp.ly/paperspace) | [pricing :label: ](https://serp.ly/paperspace) | [Referal Program Available](https://serp.ly/paperspace) |
