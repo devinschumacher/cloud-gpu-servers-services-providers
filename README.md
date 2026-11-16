@@ -382,6 +382,7 @@ In summary, Atlantic.net's GPU cloud platform delivers an impressive combination
 | Activeloop | https://www.activeloop.ai | - | - |
 | Alibaba cloud | https://alibabacloud.com | [Pay as you go](https://www.alibabacloud.com/product/gpu/pricing) | $300 [credits](https://www.alibabacloud.com/campaign/free-trial) |
 | AWS Sagemaker | https://aws.amazon.com/sagemaker/ | [pricing :label: ](https://aws.amazon.com/sagemaker/pricing/) | [Free plans](https://aws.amazon.com/free/) |
+| AxForge | https://axforge.ai/gpu/ | [pricing :label: dedicated NVIDIA DGX Spark (GB10, 128 GB unified memory) in Spain and RTX 3060 / RTX 5090 in Sweden, by the hour, week, month or year, full SSH access; EU company](https://axforge.ai/pricing/) | 3M free serverless API tokens every 30 days, no card (API only, not GPU hours) |
 | Azure | https://azure.microsoft.com/en-in/services/machine-learning-studio/ | [pricing :label: ](https://azure.microsoft.com/en-in/pricing/) | $200 [credits](https://azure.microsoft.com/en-us/free/) |
 | Cirrascale | http://www.cirrascale.com | [pricing :label:](http://www.cirrascale.com/pricing_waas.php) | - |
 | Cloudalize | https://www.cloudalize.com | [pricing :label: ](https://www.cloudalize.com/pricing/) | - |
