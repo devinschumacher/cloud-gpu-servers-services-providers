@@ -403,6 +403,7 @@ In summary, Atlantic.net's GPU cloud platform delivers an impressive combination
 | Lambda Labs | https://lambdalabs.com/service/gpu-cloud | 4x Pascals start at $1.50/hr| [Reserved Instance Discounts](https://lambdalabs.com/service/gpu-cloud/pricing) | 
 | Leadergpu | https://www.leadergpu.com | [pricing :label: ](https://www.leadergpu.com) | - |
 | Nimblebox | https://nimblebox.ai | [pricing :label: ](https://nimblebox.ai/pricing) | Free $10 worth of cloud credits |
+| NoctHost | https://nocthost.com/gpu-vps | [pricing :label: A16 from $0.66/h, also L4, A40, L40S, A100, H100 on Vultr, Linode and OVHcloud, billed hourly from a prepaid balance](https://nocthost.com/gpu-vps) | - |
 | Nvidia cloud | [Nvidia Cloud GPU](https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/) | - | - |
 | One Stop System | https://www.onestopsystems.com | - | - |
 | Paperspace | [https://www.paperspace.com](https://serp.ly/paperspace) | [pricing :label: ](https://serp.ly/paperspace) | [Referal Program Available](https://serp.ly/paperspace) |
