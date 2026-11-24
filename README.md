@@ -376,6 +376,7 @@ In summary, Atlantic.net's GPU cloud platform delivers an impressive combination
 |     Cloud GPU Provider    |              Website              | Pricing | Free Trial / Free Credits | 
 | ------------------------- | --------------------------------- | ------- | ------------------------- |
 | [Atlantic.net](https://serp.ly/atlantic.net) | [Link](https://serp.ly/atlantic.net) |  Premium   |       No      |
+| Apidly Cloud | https://apidly.com | [Pay as you go, per-second billing](https://apidly.com/pricing) | No |
 | Google Colaboratory :heart: | https://colab.research.google.com |  FREE   |       FREE FOREVER*      |
 | [Hyperstack.Cloud](https://serp.ly/hyperstack.cloud) | [Link](https://serp.ly/hyperstack.cloud) |  Premium   |       No      |
 | Kaggle Kernels | https://www.kaggle.com | FREE | FREE FOREVER* |
